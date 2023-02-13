@@ -19,3 +19,4 @@ for (let index = 0 ; index < 3 ; index++){
 console.log("Second Largest Element : " + numberArray[1]);
 console.log("Second Smallest Element : " + numberArray[1]);
 
+ 
