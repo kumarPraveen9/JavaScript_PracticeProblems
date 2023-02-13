@@ -35,5 +35,5 @@ for(index = 0 ; index < numberArray.length ; index ++){
         secondSmallestNumber = currentElement;
 }
 
-console.log("Second Largest Element : " + secondLargestNumber);
+console.log("Second Largest Element : " + secondLargestNumber); 
 console.log("Second Smallest Element : " + secondSmallestNumber);
