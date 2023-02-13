@@ -25,4 +25,4 @@ primeFactorsArray.forEach((eachPrimeFactor) => {
     }
 });
 
-console.log(uniquePrimeFactorsArray);
+console.log(uniquePrimeFactorsArray); 
